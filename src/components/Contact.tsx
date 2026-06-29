@@ -16,8 +16,8 @@ import {
 import { PROFILE } from '../data/portfolio';
 import { useInView } from '../lib/hooks';
 
-// Replace this with your Formspree endpoint, e.g. https://formspree.io/f/abcdwxyz
-const FORMSPREE_ENDPOINT = 'https://formspree.io/f/your-form-id';
+
+const FORMSPREE_ENDPOINT = 'https://formspree.io/f/xojoljgz';
 
 type Status = 'idle' | 'sending' | 'success' | 'error';
 
