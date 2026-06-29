@@ -65,15 +65,15 @@ export const PROJECTS = [
 
 export const EDUCATION = [
   {
-    period: '2022 — 2026',
+    period: '2023 — 2027',
     title: 'Bachelor of Technology',
     org: 'CMR University',
     detail: 'Computer Science Engineering · Artificial Intelligence & Machine Learning',
-    metric: 'CGPA: 8.50',
+    metric: 'CGPA: 8.56',
     status: 'active',
   },
   {
-    period: '2020 — 2022',
+    period: '2021 — 2023',
     title: 'Second PUC',
     org: 'R D PU College, Chikodi, Belagavi',
     detail: 'Pre-University Education',
