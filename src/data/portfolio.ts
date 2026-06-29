@@ -6,7 +6,7 @@ export const PROFILE = {
   cgpa: '8.50',
   github: 'https://github.com/prathameshsh21-art',
   githubHandle: '@prathameshsh21-art',
-  linkedin: 'https://www.linkedin.com/in/prathamesh21-kumbar',
+  linkedin: "https://www.linkedin.com/in/prathamesh-21-kumbar/",
   linkedinHandle: 'prathamesh21-kumbar',
   email: 'prathamesh.sh21@gmail.com',
   location: 'Bengaluru, India',
