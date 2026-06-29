@@ -71,7 +71,7 @@ export default function Hero() {
             </div>
 
             <div className="mt-6 animate-fade-up opacity-0" style={{ animationDelay: '0.25s' }}>
-              <p className="font-mono text-sm text-primary/80">{'>'} hello_world.execute()</p>
+              
               <h1 className="mt-3 font-display text-5xl font-black leading-[1.05] text-white sm:text-6xl md:text-[4.5rem]">
                 Prathamesh <br />
                 <span className="text-gradient-anim">Kumbar</span>
